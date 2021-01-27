@@ -1,4 +1,4 @@
-package vn.toright;
+package vn.toright.problem001;
 
 import java.io.*;
 import java.util.*;
@@ -6,6 +6,9 @@ import java.text.*;
 import java.math.*;
 import java.util.regex.*;
 
+/**
+ Project Euler #1: Multiples of 3 and 5
+ */
 public class Solution {
 
     public static void main(String[] args) {
